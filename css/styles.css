@@ -41,6 +41,14 @@ a, a:hover {
     text-decoration: none;
   }
 
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
+
 /* My borders showing different div
 .col, div[class^="col-"], label[class^="col-"] {
     border: 1px solid red;
