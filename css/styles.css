@@ -1,28 +1,25 @@
 body {
-    font-family: "Open Sans", sans-serif;
-}
-
-h1, h2, h3 {
-    font-family: "Lobster", cursive;
+    font-family: 'Balsamiq Sans', sans-serif;
+    background-color: #E7E3DC;
 }
 
 h2 {
-    color: #3046C5;
+    color: #74A69D;
 }
 
 header h2 {
-    color: #CEC8FF;
+    color: #74A69D;
 }
 
 .site-footer {
-    background-image: linear-gradient(#CEC8FF, white);
+    background-color: #E7E3DC;
     padding: 20px 0;
 }
 
 .jumbotron {
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
-    color: white;
+    background-color: #E7E3DC;
+    color: #74A69D;
     margin: 0;
 }
 
@@ -33,7 +30,7 @@ header h2 {
 }
 
 .navbar {
-    background-color: #901CAD;
+    background-color: #74A69D;
 }
 
 a, a:hover {
@@ -46,7 +43,15 @@ a, a:hover {
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid white;
+}
+
+.card {
+    background-color: #E7E3DC;
+}
+
+a:link {
+    color: black;
 }
 
 /* My borders showing different div
